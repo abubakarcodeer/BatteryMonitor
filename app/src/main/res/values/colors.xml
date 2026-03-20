@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Morphism & Greenish Palette -->
+    <color name="bg_start">#0B211A</color>
+    <color name="bg_center">#0E3326</color>
+    <color name="bg_end">#154D3B</color>
+
+    <color name="card_bg">#1AFFFFFF</color> <!-- Glassmorphism effect -->
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_grey">#9DBFB3</color>
+
+    <color name="primary_gradient_start">#00F260</color>
+    <color name="primary_gradient_end">#0575E6</color>
+
+    <color name="battery_good_start">#00FF87</color>
+    <color name="battery_good_end">#60EFFF</color>
+
+    <color name="battery_low_start">#FF4B2B</color>
+    <color name="battery_low_end">#FF416C</color>
+
+    <color name="battery_charging_start">#F2994A</color>
+    <color name="battery_charging_end">#F2C94C</color>
+
+    <!-- Legacy support & Overrides -->
+    <color name="primaryColor">#00F260</color>
+    <color name="primaryDarkColor">#0E3326</color>
+    <color name="colorAccent">#00FF87</color>
+    <color name="background">#0B211A</color>
+    <color name="cardBackground">#1AFFFFFF</color>
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textSecondary">#9DBFB3</color>
+    <color name="batteryGood">#00FF87</color>
+    <color name="batteryLow">#FF4B2B</color>
+    <color name="batteryCharging">#F2994A</color>
+</resources>

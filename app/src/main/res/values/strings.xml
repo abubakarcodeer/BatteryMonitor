@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Battery Monitor Pro</string>
+    <string name="battery_percent_format">%1$d%%</string>
+    <string name="temp_format">%1$.1f°C</string>
+    <string name="voltage_format">%1$.2f V</string>
+
+    <string name="label_health">HEALTH</string>
+    <string name="label_temp">TEMPERATURE</string>
+    <string name="label_voltage">VOLTAGE</string>
+    <string name="label_tech">TECHNOLOGY</string>
+
+    <string name="status_discharging">DISCHARGING</string>
+    <string name="status_charging">CHARGING</string>
+    <string name="status_full">FULLY CHARGED</string>
+
+    <!-- Default values -->
+    <string name="default_percent">0%</string>
+    <string name="default_health">Good</string>
+    <string name="default_temp">30.0°C</string>
+    <string name="default_voltage">4.0 V</string>
+    <string name="default_tech">Li-ion</string>
+</resources>
