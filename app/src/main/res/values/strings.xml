@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Battery Monitor Pro</string>
+    <string name="battery_percent_format">%1$d%%</string>
+    <string name="temp_format">%1$.1f°C</string>
+    <string name="voltage_format">%1$.2f V</string>
+
+    <string name="label_health">HEALTH</string>
+    <string name="label_temp">TEMPERATURE</string>
+    <string name="label_voltage">VOLTAGE</string>
+    <string name="label_tech">TECHNOLOGY</string>
+
+    <string name="status_discharging">DISCHARGING</string>
+    <string name="status_charging">CHARGING</string>
+    <string name="status_full">FULLY CHARGED</string>
+
+    <!-- Default values -->
+    <string name="default_percent">0%</string>
+    <string name="default_health">Good</string>
+    <string name="default_temp">30.0°C</string>
+    <string name="default_voltage">4.0 V</string>
+    <string name="default_tech">Li-ion</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Monitor Health</string>
+    <string name="onboarding_desc_1">Keep track of your battery\'s health and performance in real-time with advanced metrics.</string>
+    <string name="onboarding_title_2">Track Temperature</string>
+    <string name="onboarding_desc_2">Get notified when your device gets too hot to prevent battery degradation and damage.</string>
+    <string name="onboarding_title_3">Voltage Insights</string>
+    <string name="onboarding_desc_3">Monitor voltage levels to ensure your charging system is working perfectly.</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="btn_skip">Skip</string>
+    <string name="title">Title</string>
+    <string name="description_goes_here_this_is_a_placeholder_for_the_onboarding_step_details">Description goes here. This is a placeholder for the onboarding step details.</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+</resources>
